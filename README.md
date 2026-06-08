@@ -1,4 +1,4 @@
-# 🌸 Interactive Flower — TouchDesigner
+# Interactive Flower — TouchDesigner
 
 > *Inspired by Max Cooper's [Order from Chaos](https://www.youtube.com/watch?v=_2BE2e4oGLA), with visuals by Maxime Causeret.*
 
@@ -6,7 +6,7 @@ An interactive generative flower built in **TouchDesigner**, combining procedura
 
 ---
 
-## ✨ About the Project
+## About the Project
 
 I wanted to explore how something as mathematically rigid as an L-system can still feel organic and alive when it becomes responsive to the human body. There was a lot of trial and error in finding the right balance — mapping hand gestures to something expressive rather than mechanical.
 
@@ -14,7 +14,7 @@ The plants and flowers are modeled directly in TouchDesigner using SOPs, grown w
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 InteractiveFlower/
@@ -39,7 +39,7 @@ InteractiveFlower/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -63,7 +63,7 @@ The `toxes/` folder contains pre-built MediaPipe components. These are already r
 
 ---
 
-## 🤲 Interaction
+## Interaction
 
 | Gesture | Effect |
 |---|---|
@@ -89,7 +89,7 @@ The **MediaPipe.tox** component runs a machine learning hand landmark model insi
 
 ---
 
-## 📚 Tutorials That Helped
+## Tutorials That Helped
 
 This project was shaped by a lot of learning from others. Highly recommend checking these out:
 
@@ -103,7 +103,7 @@ Special inspiration from **@peipeiatesouls** 💫
 
 ---
 
-## 🎨 Inspiration
+## Inspiration
 
 > *"Order from Chaos"* — Max Cooper ft. visuals by Maxime Causeret.
 > The idea that rigid mathematical rules can produce something that feels alive, beautiful, and almost emotional is what drove this project.
